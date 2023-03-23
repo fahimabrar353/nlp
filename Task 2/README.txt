@@ -2,13 +2,13 @@ Link to unlisted YouTube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1HJKgoCBLvNNgmApMBBzyseb8c9OzabekWnhvrZk5QAs/edit?usp=sharing
 
 Paper title:
-NLP using ANN
+A System for Medical Information Extraction and Verification from Unstructured Text
 
 Link to the paper:
-https://ieeexplore......
+https://ojs.aaai.org/index.php/AAAI/article/view/7042?fbclid=IwAR3bnKcmNlDdj7LtFS6X1w3UN0n-QT2duvdN8KHqFzEK0QDsEbxF0xjCp3c
 
 Group Number:
 2
