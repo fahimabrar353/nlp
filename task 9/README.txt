@@ -10,14 +10,6 @@ https://youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm
 completed book:
 https://web.stanford.edu/~jurafsky/slp3/
 
-did project:
-.....
-
-did something else
-Have passed coding and technical Intervie
-
-was active in slack:
-
-
 Submitter:
 18101296 Fahim Abrar
+
