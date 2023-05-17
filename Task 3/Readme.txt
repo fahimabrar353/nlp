@@ -1,11 +1,10 @@
 Link to unlisted YouTube video:
-https://youtu.be/iK9ZR0P_KKM
+https://youtu.be/AWY66jhU25o
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
-https://github.com/NavinAnik/CSE431/blob/main/submission3/Concept%20Map.pdf
-Native/original format: 
-https://draw.io/...
+https://github.com/fahimabrar353/nlp/blob/main/Task%203/Concept%20Map.pdf
+
 
 Name, Author, Edition, year, and publisher of the Book:
 Speech and Language Processing
