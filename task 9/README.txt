@@ -16,8 +16,6 @@ did project:
 did something else
 Have passed coding and technical Intervie
 
-was active in slack:
-
 
 Submitter:
 18101296 Fahim Abrar
