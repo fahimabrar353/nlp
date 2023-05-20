@@ -13,6 +13,9 @@ https://www.youtube.com/watch?v=R-AG4-qZs1A&list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UY
 completed book:
 https://web.stanford.edu/~jurafsky/slp3/
 
+Project github:
+https://github.com/fahimabrar353/nlp/tree/main/Sine-wave-predictor
+
 Submitter:
 Fahim Abrar
 18101296 
